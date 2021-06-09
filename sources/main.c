@@ -6,6 +6,6 @@
 
 int main()
 {
-  printf("Hello world!\n");
+  printf("Hello world! The birds are out!\n");
   return 0;
 }
